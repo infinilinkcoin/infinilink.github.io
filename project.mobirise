@@ -47,7 +47,7 @@
           },
           "title": "InfiniLink",
           "text": "The InfiniLink Protocol is a community driven, fair launched DeFi Token. <br>Three simple functions&nbsp;occur during each trade: Reflection, LP Acquisition, and Burn.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Launch\" data-toolbar=\"-mbrBtnMove\">Live Chat</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"Launch\" data-toolbar=\"-mbrBtnMove\">Live Chat</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.bscscan.com/token/0xea77ea0e885553cec2ee1bab591be21f6a8206ca\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Buy Now</a>",
           "_styles": {
             ".btn": {
               "font-size": "16px"
